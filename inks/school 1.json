@@ -1,0 +1,1 @@
+﻿{"inkVersion":21,"root":[["^Конечно, д-д-д-а я могу сегодня пойти с тобой.","\n","ev","str","^Мелания","/str","/ev",{"VAR=":"characterName","re":true},"^Тогда увидимся позже.","\n",["done",{"#f":5,"#n":"g-0"}],null],"done",{"global decl":["ev","str","^Марков","/str",{"VAR=":"characterName"},"/ev","end",null],"#f":1}],"listDefs":{}}
